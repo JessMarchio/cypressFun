@@ -15,13 +15,13 @@ Follow the steps below to set up and run the tests locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jessmarchio/cypress-mocha-project.git
+   git clone https://github.com/jessmarchio/cypressFun.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd cypress-mocha-project
+   cd cypressFun
    ```
 
 3. Install dependencies:
