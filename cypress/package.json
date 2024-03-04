@@ -1,0 +1,4 @@
+"scripts": {
+  "test": "cypress run",
+  "open": "cypress open"
+}
