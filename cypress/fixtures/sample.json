@@ -1,0 +1,6 @@
+// cypress/fixtures/sample.json
+{
+    "name": "Jess Marchio",
+    "email": "Jess.Marchio@example.com"
+  }
+  
